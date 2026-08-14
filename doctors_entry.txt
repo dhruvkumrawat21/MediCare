@@ -1,0 +1,249 @@
+Entry 1
+Full Name: Dr. Ramesh Reddy
+
+Specialization: Cardiologist
+
+Location: Warangal
+
+Experience: 12 Years
+
+Qualifications: MBBS, MD (Cardiology)
+
+Consultation Fee: 600
+
+Rating (1.0 - 5.0): 4.8
+
+Patients: 3200+
+
+Success Rate: 95%
+
+Doctor Email: ramesh.reddy@example.com
+
+Doctor Password: Cardio@123
+
+Availability: Available
+
+About Doctor: Dr. Ramesh is a senior cardiologist with over a decade of experience in treating complex heart conditions and managing cardiac emergencies.
+
+Entry 2
+Full Name: Dr. Sneha Rao
+
+Specialization: Dermatologist
+
+Location: Hanamkonda
+
+Experience: 8 Years
+
+Qualifications: MBBS, DDVL
+
+Consultation Fee: 500
+
+Rating (1.0 - 5.0): 4.6
+
+Patients: 4500+
+
+Success Rate: 98%
+
+Doctor Email: sneha.rao@example.com
+
+Doctor Password: DermaSkin!8
+
+Availability: Available
+
+About Doctor: Expert in treating acne, hair fall, and providing various cosmetic dermatological procedures. Highly focused on patient comfort and clear skin goals.
+
+Entry 3
+Full Name: Dr. Vikram Sharma
+
+Specialization: Neurologist
+
+Location: Hyderabad
+
+Experience: 15 Years
+
+Qualifications: MBBS, DM (Neurology)
+
+Consultation Fee: 1000
+
+Rating (1.0 - 5.0): 4.9
+
+Patients: 5000+
+
+Success Rate: 92%
+
+Doctor Email: vikram.sharma@example.com
+
+Doctor Password: Neuro@Doc2026
+
+Availability: Available
+
+About Doctor: Renowned neurologist specializing in stroke management, epilepsy, and neurodegenerative disorders. Affiliated with top hospitals in the city.
+
+Entry 4
+Full Name: Dr. Anjali Verma
+
+Specialization: Pediatrician
+
+Location: Indore
+
+Experience: 6 Years
+
+Qualifications: MBBS, MD (Pediatrics)
+
+Consultation Fee: 400
+
+Rating (1.0 - 5.0): 4.7
+
+Patients: 2100+
+
+Success Rate: 99%
+
+Doctor Email: anjali.verma@example.com
+
+Doctor Password: PedsCare#1
+
+Availability: Available
+
+About Doctor: Compassionate pediatrician dedicated to newborn care, childhood immunizations, and supporting parents through early childhood development.
+
+Entry 5
+Full Name: Dr. Rohan Iyer
+
+Specialization: Orthopedic Surgeon
+
+Location: Bengaluru
+
+Experience: 10 Years
+
+Qualifications: MBBS, MS (Ortho)
+
+Consultation Fee: 800
+
+Rating (1.0 - 5.0): 4.5
+
+Patients: 3800+
+
+Success Rate: 94%
+
+Doctor Email: rohan.iyer@example.com
+
+Doctor Password: OrthoBones99
+
+Availability: Available
+
+About Doctor: Specialist in joint replacement surgeries and sports injury rehabilitation. Employs minimally invasive techniques for faster recovery times.
+
+Entry 6
+Full Name: Dr. Kavita Desai
+
+Specialization: Gynecologist
+
+Location: Warangal
+
+Experience: 14 Years
+
+Qualifications: MBBS, DGO
+
+Consultation Fee: 550
+
+Rating (1.0 - 5.0): 4.8
+
+Patients: 4100+
+
+Success Rate: 97%
+
+Doctor Email: kavita.desai@example.com
+
+Doctor Password: GynaeWGL$5
+
+Availability: Available
+
+About Doctor: Highly experienced in managing high-risk pregnancies, PCOS, and comprehensive women's reproductive health from adolescence to menopause.
+
+Entry 7
+Full Name: Dr. Syed Ali
+
+Specialization: General Physician
+
+Location: Hyderabad
+
+Experience: 5 Years
+
+Qualifications: MBBS
+
+Consultation Fee: 300
+
+Rating (1.0 - 5.0): 4.4
+
+Patients: 1200+
+
+Success Rate: 96%
+
+Doctor Email: syed.ali@example.com
+
+Doctor Password: GenPhysic@77
+
+Availability: Available
+
+About Doctor: Dedicated general practitioner focusing on preventive medicine, treating seasonal fevers, and providing long-term chronic disease management. 
+
+
+
+
+
+1. Dr. Ramesh Reddy (Warangal)
+Monday to Wednesday: 10:00 AM - 01:00 PM
+
+Monday to Wednesday: 05:00 PM - 08:00 PM
+
+Friday & Saturday: 11:00 AM - 02:00 PM
+
+Sunday: Closed
+
+2. Dr. Sneha Rao (Hanamkonda)
+Monday, Wednesday, Friday: 11:30 AM - 02:30 PM
+
+Tuesday & Thursday: 04:00 PM - 08:00 PM
+
+Saturday: 10:00 AM - 01:00 PM
+
+Sunday: Closed
+
+3. Dr. Vikram Sharma (Hyderabad)
+Monday to Friday: 09:00 AM - 12:30 PM
+
+Monday to Friday: 02:00 PM - 05:00 PM
+
+Saturday: 09:00 AM - 01:00 PM
+
+Sunday: Closed
+
+4. Dr. Anjali Verma (Indore)
+Monday to Saturday: 10:00 AM - 02:00 PM
+
+Monday to Saturday: 06:00 PM - 09:00 PM
+
+Sunday: 10:00 AM - 12:00 PM
+
+5. Dr. Rohan Iyer (Bengaluru)
+Tuesday to Friday: 08:00 AM - 11:30 AM
+
+Tuesday to Friday: 03:00 PM - 06:00 PM
+
+Saturday & Sunday: 09:00 AM - 02:00 PM
+
+Monday: Closed
+
+6. Dr. Kavita Desai (Warangal)
+Monday to Thursday: 10:30 AM - 01:30 PM
+
+Monday to Thursday: 05:30 PM - 08:30 PM
+
+Saturday: 11:00 AM - 04:00 PM
+
+Friday & Sunday: Closed
+
+7. Dr. Syed Ali (Hyderabad)
+Monday to Sunday (All Days): 09:00 AM - 01:00 PM
+
+Monday to Sunday (All Days): 04:00 PM - 09:00 PM
