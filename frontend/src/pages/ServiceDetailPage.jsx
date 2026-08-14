@@ -13,7 +13,7 @@ import toast, { Toaster } from "react-hot-toast";
 import { serviceDetailStyles, iconSize } from "../assets/dummyStyles";
 
 // backend url
-const DEFAULT_HOST = "http://localhost:4000".replace(/\/$/, "");
+const DEFAULT_HOST = "https://medicare-backend-xfn2.onrender.com/api".replace(/\/$/, "");
 
 export default function ServiceDetail() {
   const { id } = useParams();

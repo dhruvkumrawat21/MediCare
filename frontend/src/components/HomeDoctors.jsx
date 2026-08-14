@@ -7,7 +7,7 @@ import { ChevronRight, Medal, MousePointer2Off } from 'lucide-react';
 
 
 const HomeDoctors = ({previewCount=8}) => {
-    const API_BASE = 'http://localhost:4000';
+    const API_BASE = "https://medicare-backend-xfn2.onrender.com/api";
     const [doctors, setDoctors] = useState([]);
     const [loading, setLoading] = useState(true);
     const [error, setError] = useState(""); 

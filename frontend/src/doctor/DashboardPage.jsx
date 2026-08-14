@@ -11,7 +11,7 @@ import {
 import { dashboardStyles } from "../assets/dummyStyles";
 
 //backend url
-const API_BASE = "http://localhost:4000";
+const API_BASE = "https://medicare-backend-xfn2.onrender.com/api";
 
 //date with time
 function parseDateTime(date, time) {

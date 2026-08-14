@@ -10,7 +10,7 @@ import { useParams } from "react-router-dom";
 const AddService = () => {
     const { serviceId } = useParams();
 
-    const API_BASE = "http://localhost:4000";
+    const API_BASE = "https://medicare-backend-xfn2.onrender.com/api";
     //all use state variables 
     const fileRef = useRef(null);
     const [imagePreview, setImagePreview] = useState(null);

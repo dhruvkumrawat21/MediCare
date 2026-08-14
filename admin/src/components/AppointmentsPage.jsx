@@ -3,7 +3,7 @@ import { pageStyles, statusClasses, keyframesStyles } from '../assets/dummyStyle
 import { BadgeIndianRupee, Calendar, Search } from 'lucide-react';
 
 
-const API_BASE = "http://localhost:4000";
+const API_BASE = "https://medicare-backend-xfn2.onrender.com/api";
 
 
 //helper functions 

@@ -23,7 +23,7 @@ import { useAuth, useUser } from "@clerk/clerk-react";
 import { doctorDetailStyles } from "../assets/dummyStyles";
 
 // import backend url (local host)
-const API_BASE = "http://localhost:4000";
+const API_BASE = "https://medicare-backend-xfn2.onrender.com/api";
 
 
 //this function will parse the date into a object 

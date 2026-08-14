@@ -4,8 +4,7 @@ import { listPageStyles } from '../assets/dummyStyles'
 import { Calendar, Phone, Search, X } from 'lucide-react'
 
 
-const API_BASE = "http://localhost:4000";
-
+const API_BASE = "https://medicare-backend-xfn2.onrender.com/api";
 //helper functions 
 
 //this all functions are similar to the dashboard page 

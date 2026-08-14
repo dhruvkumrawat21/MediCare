@@ -3,8 +3,7 @@ import React, { useEffect } from 'react'
 import { useLocation, useNavigate } from 'react-router-dom';
 
 
-const API_BASE = "http://localhost:4000"; 
-
+const API_BASE = "https://medicare-backend-xfn2.onrender.com/api";
 
 const VerifyServicePaymentPage = () => {
     const location = useLocation();

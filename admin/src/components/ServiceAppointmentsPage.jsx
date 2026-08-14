@@ -3,7 +3,7 @@ import { serviceAppointmentsStyles } from '../assets/dummyStyles'
 import { CheckCircle, Loader2, SearchIcon, XCircle, XIcon, User, Phone, BadgeIndianRupee, Calendar, Clock } from 'lucide-react';
 
 
-const API_BASE = "http://localhost:4000";
+const API_BASE = "https://medicare-backend-xfn2.onrender.com/api";
 //helper functions
 
 //to format the number 
